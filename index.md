@@ -41,7 +41,8 @@ Dorotheenstraße 24, 10117 Berlin (Room: 3.305)
 * [ORCID](https://orcid.org/0000-0001-7321-0795)
 * [Germanistenverzeichnis](http://www.germanistenverzeichnis.phil.uni-erlangen.de/institutslisten/files/de/09200_de/9202_de.html)
 
-
+  
+  
 ## Current project
 
 ### Building register into the architecture of language – an HPSG account
