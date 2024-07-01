@@ -11,7 +11,8 @@ I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germ
 I am interested in the interface between morphosyntax and semantics, in particular in change of state expressions and NPs; in formal modeling of morphosyntactic variation in the context of register differences; in Differential Object Marking; and in LaTeX, among other topics. Languages I have worked on are: German, Mandarin Chinese, Brazilian Portuguese, Korean, French, and Spanish.
 </div>
 
-
+  
+  
 ## Contact:
 
 ### Mailing address
