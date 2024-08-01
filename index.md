@@ -6,11 +6,13 @@ layout: default
 
 <div style="text-align: justify"> 
 I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germanic Linguistics and Spanish Philology, I wrote my dissertation on the syntax and semantics of NPs in Spanish and German in Head-Driven Phrase Structure Grammar. Until now, I have worked as a researcher at the Universität Potsdam, in the Collaborative Research Center (CRC 632) "Information Structure" at the Freie Universität Berlin, at the Eberhard Karls Universität Tübingen, and at the Humboldt-Universität zu Berlin. Currently, I am a PI in the Collaborative Research Center (CRC 1412) "Register" (Project A04: Building register into the architecture of language – an HPSG account). 
+<br>
 </div>
 
 
 <div style="text-align: justify"> 
 I am interested in the interface between morphosyntax and semantics, in particular in change of state expressions, argument structure, and NPs; in formal modeling of morphosyntactic variation in the context of register differences; in Differential Object Marking; and in LaTeX, among other topics. Languages I have worked on are: German, Mandarin Chinese, Brazilian Portuguese, Korean, French, and Spanish.
+<br>
 </div>
 
 
@@ -22,26 +24,10 @@ Currently, I am co-editor of the series <a href="https://langsci-press.org/catal
   
 ## Contact
 
-### Mailing address
-
-Humboldt-Universität zu Berlin  
-Institut für deutsche Sprache und Linguistik  
-Unter den Linden 6  
-D-10099 Berlin
-
-
-### Office
-Humboldt-Universität zu Berlin  
-Institut für deutsche Sprache und Linguistik  
-Dorotheenstraße 24, 10117 Berlin (Room: 3.305)
-
-
-### Online
-
-* **E-Mail:**
-[machicao.y.priemer@hu-berlin.de](mailto:machicao.y.priemer@hu-berlin.de)
 * **Webseite:** 
 [https://hu.berlin/aMyP](https://hu.berlin/aMyP)
+* **E-Mail:**
+[machicao.y.priemer@hu-berlin.de](mailto:machicao.y.priemer@hu-berlin.de)
 * [ResearchGate](https://www.researchgate.net/profile/Antonio-Machicao-Y-Priemer)
 * [Academia](https://hu-berlin.academia.edu/aMyP)
 * [amyp@mastodon.social](https://mastodon.social/@amyp)
@@ -55,9 +41,7 @@ Dorotheenstraße 24, 10117 Berlin (Room: 3.305)
 
 ### Building register into the architecture of language – an HPSG account
 
-Projekt [A04](https://sfb1412.hu-berlin.de/de/projekte/a04/) im [SFB 1412](https://sfb1412.hu-berlin.de): Language-Users’ Knowledge of Situational-Functional Variation
-
-**Office:** Mohrenstraße 40/41, 10117 Berlin (Room: 15)
+Project [A04](https://sfb1412.hu-berlin.de/de/projekte/a04/) im [SFB 1412](https://sfb1412.hu-berlin.de): Language-Users’ Knowledge of Situational-Functional Variation
 
 
 <div style="text-align: justify"> 
