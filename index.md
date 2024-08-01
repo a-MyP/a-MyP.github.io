@@ -5,7 +5,8 @@ layout: default
 ## About 
 
 <div style="text-align: justify"> 
-I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germanic Linguistics and Spanish Philology, I wrote my dissertation on the syntax and semantics of NPs in Spanish and German in Head-Driven Phrase Structure Grammar. Until now, I have worked as a researcher at the Universität Potsdam, in the Collaborative Research Center (CRC 632) "Information Structure" at the Freie Universität Berlin, at the Eberhard Karls Universität Tübingen, and at the Humboldt-Universität zu Berlin. Currently, I am a PI in the Collaborative Research Center (CRC 1412) "Register" (Project A04: Building register into the architecture of language – an HPSG account).
+<p>
+I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germanic Linguistics and Spanish Philology, I wrote my dissertation on the syntax and semantics of NPs in Spanish and German in Head-Driven Phrase Structure Grammar. Until now, I have worked as a researcher at the Universität Potsdam, in the Collaborative Research Center (CRC 632) "Information Structure" at the Freie Universität Berlin, at the Eberhard Karls Universität Tübingen, and at the Humboldt-Universität zu Berlin. Currently, I am a PI in the Collaborative Research Center (CRC 1412) "Register" (Project A04: Building register into the architecture of language – an HPSG account).</p>
 </div>
 
 
