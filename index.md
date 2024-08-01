@@ -11,9 +11,13 @@ I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germ
 
 <div style="text-align: justify"> 
 I am interested in the interface between morphosyntax and semantics, in particular in change of state expressions, argument structure, and NPs; in formal modeling of morphosyntactic variation in the context of register differences; in Differential Object Marking; and in LaTeX, among other topics. Languages I have worked on are: German, Mandarin Chinese, Brazilian Portuguese, Korean, French, and Spanish.
-<br><br>
 </div>
 
+
+<div style="text-align: justify"> 
+Currently, I am co-editor of the series [Textbooks in Language Sciences](https://langsci-press.org/catalog/series/tbls) (TBLS) published by Language Science Press.
+<br><br>
+</div>
 
   
 ## Contact
@@ -68,4 +72,5 @@ A04 aims to develop a formal grammatical model of morphosyntactic register varia
 *   [Presentations](https://www.linguistik.hu-berlin.de/de/staff/amyp/vortraege)
 *   [Publications](https://www.linguistik.hu-berlin.de/de/staff/amyp/publikationen)
 *   [Teaching](https://www.linguistik.hu-berlin.de/de/staff/amyp/fruehereLV)
+*   [Thesis supervision](https://www.linguistik.hu-berlin.de/de/staff/amyp/betreuung)
 
