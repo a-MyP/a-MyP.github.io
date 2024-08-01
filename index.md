@@ -11,6 +11,7 @@ I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germ
 
 <div style="text-align: justify"> 
 I am interested in the interface between morphosyntax and semantics, in particular in change of state expressions, argument structure, and NPs; in formal modeling of morphosyntactic variation in the context of register differences; in Differential Object Marking; and in LaTeX, among other topics. Languages I have worked on are: German, Mandarin Chinese, Brazilian Portuguese, Korean, French, and Spanish.
+<br><br>
 </div>
 
 
@@ -57,6 +58,7 @@ Projekt [A04](https://sfb1412.hu-berlin.de/de/projekte/a04/) im [SFB 1412](https
 
 <div style="text-align: justify"> 
 A04 aims to develop a formal grammatical model of morphosyntactic register variation within Head-Driven Phrase Structure Grammar. The project investigates phenomena pertaining to four domains of variation in German and Brazilian Portuguese: pronoun choice (lexicon), agreement (morphology), valence alternations (argument structure), and the structure of the pre-field (constituent structure). The initial hypothesis is that probabilistic relations between subsets of the grammar (i.e. registers) and situational parameters are mediated by social meanings, understood broadly to cover any kind of non-truth conditional content that indexes some socially relevant property of context coordinates (e.g. the speaker, the hearer, or the relationship between them).  The social meanings of particular register variants are tested by means of perception studies. 
+<br><br>
 </div>
 
 
