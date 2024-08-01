@@ -15,7 +15,7 @@ I am interested in the interface between morphosyntax and semantics, in particul
 
 
 <div style="text-align: justify"> 
-Currently, I am co-editor of the series [Textbooks in Language Sciences](https://langsci-press.org/catalog/series/tbls) (TBLS) published by Language Science Press.
+Currently, I am co-editor of the series <a href="https://langsci-press.org/catalog/series/tbls">Textbooks in Language Sciences</a> (TBLS) published by Language Science Press.
 <br><br>
 </div>
 
@@ -72,5 +72,5 @@ A04 aims to develop a formal grammatical model of morphosyntactic register varia
 *   [Presentations](https://www.linguistik.hu-berlin.de/de/staff/amyp/vortraege)
 *   [Publications](https://www.linguistik.hu-berlin.de/de/staff/amyp/publikationen)
 *   [Teaching](https://www.linguistik.hu-berlin.de/de/staff/amyp/fruehereLV)
-*   [Thesis supervision](https://www.linguistik.hu-berlin.de/de/staff/amyp/betreuung)
+*   [Theses supervision](https://www.linguistik.hu-berlin.de/de/staff/amyp/betreuung)
 
