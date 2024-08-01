@@ -14,8 +14,6 @@ I am interested in the interface between morphosyntax and semantics, in particul
 </div>
 
 
-* * *  
-
   
 ## Contact
 
@@ -46,8 +44,6 @@ Dorotheenstraße 24, 10117 Berlin (Room: 3.305)
 * [ORCID](https://orcid.org/0000-0001-7321-0795)
 * [Germanistenverzeichnis](http://www.germanistenverzeichnis.phil.uni-erlangen.de/institutslisten/files/de/09200_de/9202_de.html)
 
-
-* * *
   
   
 ## Current project
@@ -63,8 +59,6 @@ Projekt [A04](https://sfb1412.hu-berlin.de/de/projekte/a04/) im [SFB 1412](https
 A04 aims to develop a formal grammatical model of morphosyntactic register variation within Head-Driven Phrase Structure Grammar. The project investigates phenomena pertaining to four domains of variation in German and Brazilian Portuguese: pronoun choice (lexicon), agreement (morphology), valence alternations (argument structure), and the structure of the pre-field (constituent structure). The initial hypothesis is that probabilistic relations between subsets of the grammar (i.e. registers) and situational parameters are mediated by social meanings, understood broadly to cover any kind of non-truth conditional content that indexes some socially relevant property of context coordinates (e.g. the speaker, the hearer, or the relationship between them).  The social meanings of particular register variants are tested by means of perception studies. 
 </div>
 
-
-* * *
 
 
 ## Further information
