@@ -59,3 +59,11 @@ A04 aims to develop a formal grammatical model of morphosyntactic register varia
 *   [Teaching](https://www.linguistik.hu-berlin.de/de/staff/amyp/fruehereLV)
 *   [Theses supervision](https://www.linguistik.hu-berlin.de/de/staff/amyp/betreuung)
 
+
+
+
+## LaTeX Templates 
+
+* [Slides](https://github.com/a-MyP/MyP-Templates/tree/main/MyP-slides-short)
+* [Term Paper](https://github.com/a-MyP/MyP-Templates/tree/main/MyP-termpaper-short)
+* [Thesis](https://github.com/a-MyP/MyP-Templates/tree/main/MyP-thesis-short)
