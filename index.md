@@ -6,7 +6,7 @@ layout: default
 
 <div style="text-align: justify"> 
 <p>
-I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germanic Linguistics and Spanish Philology, I wrote my dissertation on the syntax and semantics of NPs in Spanish and German in Head-Driven Phrase Structure Grammar. Until now, I have worked as a researcher at the Universität Potsdam, in the Collaborative Research Center (CRC 632) "Information Structure" at the Freie Universität Berlin, at the Eberhard Karls Universität Tübingen, and at the Humboldt-Universität zu Berlin. Currently, I am a PI in the Collaborative Research Center (CRC 1412) "Register" (Project A04: Building register into the architecture of language – an HPSG account).</p>
+I am a linguist at the Humboldt-Universität zu Berlin. After my studies in Germanic Linguistics and Spanish Philology, I wrote my dissertation on the syntax and semantics of NPs in Spanish and German in Head-Driven Phrase Structure Grammar. Until now, I have worked as a researcher at the Universität Potsdam, in the Collaborative Research Center (CRC 632) "Information Structure" at the Freie Universität Berlin, at the Eberhard Karls Universität Tübingen, and at the Humboldt-Universität zu Berlin. Currently, I am a PI in the Collaborative Research Center (CRC 1412) "Register" (Project A04: <a href="https://sfb1412.hu-berlin.de/de/projekte/a04/">Building register into the architecture of language – an HPSG account</a>).</p>
 </div>
 
 
@@ -31,10 +31,12 @@ Currently, I am co-editor of the series <a href="https://langsci-press.org/catal
 [machicao.y.priemer@hu-berlin.de](mailto:machicao.y.priemer@hu-berlin.de)
 * [ResearchGate](https://www.researchgate.net/profile/Antonio-Machicao-Y-Priemer)
 * [Academia](https://hu-berlin.academia.edu/aMyP)
+* [GitHub](https://github.com/a-MyP)
 * [amyp@mastodon.social](https://mastodon.social/@amyp)
 * [@myp.bsky.social](https://bsky.app/profile/myp.bsky.social)
 * [ORCID](https://orcid.org/0000-0001-7321-0795)
 * [Germanistenverzeichnis](http://www.germanistenverzeichnis.phil.uni-erlangen.de/institutslisten/files/de/09200_de/9202_de.html)
+
 
   
   
